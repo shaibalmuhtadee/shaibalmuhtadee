@@ -1,6 +1,6 @@
 ## Hey!
 
-My name is Shaibal Muhtadee or just Shai for short. I'm a third year Computer Engineering student at the University of Toronto. I am an aspiring web developer and tech aficionado. I love learning the logic behind complex software programs and developing powerful interactive apps. Check out my portfolio at [shaibalmuhtadee.com](https://shaibalmuhtadee.com/). I am currently seeking an internship this summer 2023, please take a look at my [resume](https://shaibalmuhtadee.com/Shaibal_Muhtadee_Resume.pdf)!
+My name is Shaibal Muhtadee or just Shai for short. I'm a third year Computer Engineering student at the University of Toronto. I am an aspiring web developer and tech aficionado. I love learning the logic behind complex software programs and developing powerful interactive apps. Check out my portfolio at [shaibalmuhtadee.com](https://shaibalmuhtadee.com/).
 
 ---
 
