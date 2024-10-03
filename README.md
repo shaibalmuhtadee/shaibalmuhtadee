@@ -17,4 +17,4 @@ My name is Shaibal Muhtadee or just Shai for short. I'm a third year Computer En
 
 ---
 
-[![Website](https://img.shields.io/badge/my%20Website-FFFFFF?style=for-the-badge)](https://shaibalmuhtadee.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaibalmuhtadee/) [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/yeetertot/) 
+[![Website](https://img.shields.io/badge/my%20Website-008000?style=for-the-badge)](https://shaibalmuhtadee.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaibalmuhtadee/) [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/yeetertot/) 
