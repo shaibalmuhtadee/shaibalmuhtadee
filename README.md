@@ -1,4 +1,4 @@
-## Hey!
+## Hey! 👋
 
 My name is Shaibal Muhtadee or just Shai for short. I'm a fourth year Computer Engineering student at the University of Toronto. I am an aspiring web developer and tech aficionado. I love learning the logic behind complex software programs and developing powerful interactive apps. Check out my portfolio at [shaibalmuhtadee.com](https://shaibalmuhtadee.com/).
 
